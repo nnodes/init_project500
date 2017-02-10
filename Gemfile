@@ -39,6 +39,8 @@ gem 'dotenv-rails'
 gem 'simple_form'
 gem 'jquery-datatables-rails', '~> 3.3.0'
 gem 'will_paginate'
+gem 'bootstrap-sass', '~> 3.3.6'
+gem 'jasny-bootstrap-rails', '~> 3.1.3'
 
 
 group :development, :test do

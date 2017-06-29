@@ -49,4 +49,7 @@ $(document).on("turbolinks:load", function() {
     "iDisplayLength": 25,
     "sPaginationType": "full_numbers"
   });
+
+  $(".alert" ).delay(2000).fadeOut(3000);
+  
 });
